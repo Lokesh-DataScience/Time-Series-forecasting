@@ -9,6 +9,7 @@ Time-Series-Forecasting is a Python project focused on predicting future values 
 - **model.ipynb**: Jupyter Notebook that contains the code for data preprocessing, training, and evaluating the LSTM model for time series forecasting.
 - **LSTM_MODEL.keras**: Pre-trained LSTM model saved in Keras format, which can be loaded and used for predictions on new time series data.
 - **README.md**: Documentation file describing the project, how to set it up, and how to use it.
+- **requirements.txt**: List of Python libraries required to run `model.ipynb`.
 
 ## Getting Started
 
